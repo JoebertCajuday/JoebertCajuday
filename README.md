@@ -3,14 +3,11 @@
 
 
 ## Social ##
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joebert-cajuday-95b957281)[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white)](mailto:cajudayjoebert1@gmail.com)
 
 ## Tech Stack ##
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="Typescript Logo" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="MySQL Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP Logo" width="50" height="50"/> 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
 
 ## &#x1f4c8; Github Stats ##
