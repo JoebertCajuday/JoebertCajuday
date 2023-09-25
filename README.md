@@ -3,7 +3,12 @@
 
 
 ## Social ##
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joebert-cajuday-95b957281)[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white)](mailto:cajudayjoebert1@gmail.com)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://linkedin.com/in/joebert-cajuday-95b957281)[![Gmail](https://img.shields.io/badge/Gmail-ff1a1a?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:cajudayjoebert1@gmail.com)
+
+</div>
 
 ## Tech Stack ##
 
