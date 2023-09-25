@@ -1,6 +1,9 @@
-## An Aspiring Software Engineer ##
 
+<div align="center">
 
+<h3> An Aspiring Software Engineer </h3>
+
+</div>
 
 ## Social ##
 
