@@ -7,7 +7,37 @@
 
 ## Tech Stack ##
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=gray)![MySQL](https://img.shields.io/badge/MYSQL-%23e6e6e6?style=for-the-badge&logo=MySQL&logoColor=%234000ff)![React Native](https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=React&logoColor=%23668cff)
+
+
+
+</div>
+
+<!--
+## Tech Stack
+
+<div align="center">
+  <a href="https://kuya.dev" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+         alt="React"
+    />
+  </a>
+  
+  
+  <a href="https://kuya.dev" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"
+         alt="NodeJS"
+    />
+  </a>
+  
+</div>
+-->
 
 
 ## &#x1f4c8; Github Stats ##
