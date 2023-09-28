@@ -17,11 +17,15 @@
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=gray)![MySQL](https://img.shields.io/badge/MYSQL-%23e6e6e6?style=for-the-badge&logo=MySQL&logoColor=%234000ff)![React Native](https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=React&logoColor=%23668cff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=gray)![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)![MySQL](https://img.shields.io/badge/MYSQL-%23e6e6e6?style=for-the-badge&logo=MySQL&logoColor=%234000ff)![React Native](https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=React&logoColor=%23668cff)
 
 
 
 </div>
+
+
+## 📈 Leetcode
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JCajuday?theme=dark&font=ABeeZee&ext=heatmap)](https://leetcode.com/JCajuday/)
 
 <!--
 ## Tech Stack
