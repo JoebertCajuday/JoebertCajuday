@@ -24,10 +24,10 @@
 </div>
 
 
+<!--
 ## 📈 Leetcode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/JCajuday?theme=dark&font=ABeeZee&ext=heatmap)](https://leetcode.com/JCajuday/)
 
-<!--
 ## Tech Stack
 
 <div align="center">
